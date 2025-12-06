@@ -174,6 +174,20 @@
       "case_no": "",
       "plaintiff": "",
       "defendant": ""
+    },
+    "http://feedproxy.google.com/~r/cfo/daily_briefing/~3/_gv-2lGPSPA/": {
+      "created_at": "2025-12-06T12:37:24.767842+00:00",
+      "issue_url": "https://github.com/leemgs/ai-law-suit-tracker/issues/26",
+      "case_no": "",
+      "plaintiff": "",
+      "defendant": ""
+    },
+    "https://news.google.com/home?hl=en-CA&gl=CA&ceid=CA%3Aen": {
+      "created_at": "2025-12-06T12:37:27.006105+00:00",
+      "issue_url": "https://github.com/leemgs/ai-law-suit-tracker/issues/27",
+      "case_no": "",
+      "plaintiff": "",
+      "defendant": ""
     }
   }
 }
