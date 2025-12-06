@@ -125,6 +125,34 @@
       "case_no": "",
       "plaintiff": "",
       "defendant": ""
+    },
+    "https://www.google.com/share.google?q=jjO6OzQutmJYKTBbK": {
+      "created_at": "2025-12-06T01:25:12.116886+00:00",
+      "issue_url": "https://github.com/leemgs/ai-law-suit-tracker/issues/19",
+      "case_no": "",
+      "plaintiff": "",
+      "defendant": ""
+    },
+    "https://news.google.com/articles/CBMic2h0dHBzOi8vd3d3Lmxhdy5jb20vbmF0aW9uYWxsYXdqb3VybmFsLzIwMTkvMDYvMjUvdXMtYXBwZWFscy1jb3VydC1zYXlzLWNlbnN1cy1wbGFpbnRpZmZzLWNhbi1leHBsb3JlLW5ldy1ldmlkZW5jZS_SAQA?hl=en-US&gl=US&ceid=US%3Aen": {
+      "created_at": "2025-12-06T01:25:14.209155+00:00",
+      "issue_url": "https://github.com/leemgs/ai-law-suit-tracker/issues/20",
+      "case_no": "",
+      "plaintiff": "",
+      "defendant": ""
+    },
+    "https://www.google.com/finance/quote/STUB:NYSE": {
+      "created_at": "2025-12-06T01:25:16.253970+00:00",
+      "issue_url": "https://github.com/leemgs/ai-law-suit-tracker/issues/21",
+      "case_no": "",
+      "plaintiff": "",
+      "defendant": ""
+    },
+    "https://www.google.com/finance/quote/F:NYSE": {
+      "created_at": "2025-12-06T01:25:18.546243+00:00",
+      "issue_url": "https://github.com/leemgs/ai-law-suit-tracker/issues/22",
+      "case_no": "",
+      "plaintiff": "",
+      "defendant": ""
     }
   }
 }
