@@ -398,6 +398,13 @@
       "case_no": "",
       "plaintiff": "",
       "defendant": ""
+    },
+    "https://news.google.com/?pz=1&hl=en-US&as_scoring=r&geo=Karachi&as_maxm=6&as_qdr=m&as_drrb=q&as_mind=3&as_minm=5&as_maxd=2&gl=US&ceid=US:en": {
+      "created_at": "2025-12-09T16:27:02.885371+00:00",
+      "issue_url": "https://github.com/leemgs/ai-law-suit-tracker/issues/58",
+      "case_no": "",
+      "plaintiff": "",
+      "defendant": ""
     }
   }
 }
