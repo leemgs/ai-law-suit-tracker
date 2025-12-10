@@ -440,6 +440,20 @@
       "case_no": "",
       "plaintiff": "",
       "defendant": ""
+    },
+    "https://www.google.com/share.google?q=1eE5YiFYwMEC8PcM4": {
+      "created_at": "2025-12-10T20:24:28.139688+00:00",
+      "issue_url": "https://github.com/leemgs/ai-law-suit-tracker/issues/64",
+      "case_no": "",
+      "plaintiff": "",
+      "defendant": ""
+    },
+    "http://feedproxy.google.com/~r/TheStaffingStream/~3/hu2P_3eeE1k/": {
+      "created_at": "2025-12-10T20:24:29.518815+00:00",
+      "issue_url": "https://github.com/leemgs/ai-law-suit-tracker/issues/65",
+      "case_no": "",
+      "plaintiff": "",
+      "defendant": ""
     }
   }
 }
