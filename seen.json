@@ -461,6 +461,13 @@
       "case_no": "",
       "plaintiff": "",
       "defendant": ""
+    },
+    "https://support.google.com/youtube/answer/9996224?hl=en-SR&co=GENIE.CountryCode%3DRU": {
+      "created_at": "2025-12-11T08:29:31.482958+00:00",
+      "issue_url": "https://github.com/leemgs/ai-law-suit-tracker/issues/67",
+      "case_no": "",
+      "plaintiff": "",
+      "defendant": ""
     }
   }
 }
