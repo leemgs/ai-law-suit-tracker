@@ -615,6 +615,20 @@
       "case_no": "",
       "plaintiff": "",
       "defendant": ""
+    },
+    "https://www.google.com/finance/quote/GRRR:NASDAQ": {
+      "created_at": "2025-12-14T01:46:27.256170+00:00",
+      "issue_url": "https://github.com/leemgs/ai-law-suit-tracker/issues/89",
+      "case_no": "",
+      "plaintiff": "",
+      "defendant": ""
+    },
+    "https://news.google.com/?hl=en-AU&tab=wn&gl=AU&ceid=AU:en": {
+      "created_at": "2025-12-14T01:46:29.609741+00:00",
+      "issue_url": "https://github.com/leemgs/ai-law-suit-tracker/issues/90",
+      "case_no": "",
+      "plaintiff": "",
+      "defendant": ""
     }
   }
 }
