@@ -818,6 +818,13 @@
       "case_no": "",
       "plaintiff": "",
       "defendant": ""
+    },
+    "https://www.google.com/finance/quote/ADBE:NASDAQ": {
+      "created_at": "2025-12-18T03:20:27.165113+00:00",
+      "issue_url": "https://github.com/leemgs/ai-law-suit-tracker/issues/118",
+      "case_no": "",
+      "plaintiff": "",
+      "defendant": ""
     }
   }
 }
