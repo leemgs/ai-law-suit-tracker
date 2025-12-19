@@ -853,6 +853,13 @@
       "case_no": "",
       "plaintiff": "",
       "defendant": ""
+    },
+    "https://news.google.com/?q=Montana": {
+      "created_at": "2025-12-19T03:23:19.631687+00:00",
+      "issue_url": "https://github.com/leemgs/ai-law-suit-tracker/issues/123",
+      "case_no": "",
+      "plaintiff": "",
+      "defendant": ""
     }
   }
 }
