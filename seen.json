@@ -881,6 +881,13 @@
       "case_no": "",
       "plaintiff": "",
       "defendant": ""
+    },
+    "https://www.google.com/finance/quote/CNY-ISK": {
+      "created_at": "2025-12-20T01:27:28.607253+00:00",
+      "issue_url": "https://github.com/leemgs/ai-law-suit-tracker/issues/127",
+      "case_no": "",
+      "plaintiff": "",
+      "defendant": ""
     }
   }
 }
