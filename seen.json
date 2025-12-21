@@ -937,6 +937,13 @@
       "case_no": "",
       "plaintiff": "",
       "defendant": ""
+    },
+    "https://www.google.com/finance/quote/CNY-JPY": {
+      "created_at": "2025-12-21T12:38:36.132359+00:00",
+      "issue_url": "https://github.com/leemgs/ai-law-suit-tracker/issues/135",
+      "case_no": "",
+      "plaintiff": "",
+      "defendant": ""
     }
   }
 }
