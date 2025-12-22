@@ -986,6 +986,13 @@
       "case_no": "",
       "plaintiff": "",
       "defendant": ""
+    },
+    "https://www.google.com/finance/quote/USD-CZK": {
+      "created_at": "2025-12-22T12:42:02.753195+00:00",
+      "issue_url": "https://github.com/leemgs/ai-law-suit-tracker/issues/142",
+      "case_no": "",
+      "plaintiff": "",
+      "defendant": ""
     }
   }
 }
