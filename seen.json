@@ -1014,6 +1014,34 @@
       "case_no": "",
       "plaintiff": "",
       "defendant": ""
+    },
+    "https://play.google.com/store/apps/details?id=com.lotto.king&hl=ko": {
+      "created_at": "2025-12-22T18:30:55.448115+00:00",
+      "issue_url": "https://github.com/leemgs/ai-law-suit-tracker/issues/146",
+      "case_no": "1167회 3",
+      "plaintiff": "",
+      "defendant": ""
+    },
+    "https://www.google.com/finance/quote/GBP-MXN": {
+      "created_at": "2025-12-22T18:30:57.649304+00:00",
+      "issue_url": "https://github.com/leemgs/ai-law-suit-tracker/issues/147",
+      "case_no": "",
+      "plaintiff": "",
+      "defendant": ""
+    },
+    "https://www.google.com/finance/quote/SGD-JPY": {
+      "created_at": "2025-12-22T18:30:59.595438+00:00",
+      "issue_url": "https://github.com/leemgs/ai-law-suit-tracker/issues/148",
+      "case_no": "",
+      "plaintiff": "",
+      "defendant": ""
+    },
+    "https://www.google.com/finance/quote/HKD-TWD": {
+      "created_at": "2025-12-22T18:31:01.587238+00:00",
+      "issue_url": "https://github.com/leemgs/ai-law-suit-tracker/issues/149",
+      "case_no": "",
+      "plaintiff": "",
+      "defendant": ""
     }
   }
 }
