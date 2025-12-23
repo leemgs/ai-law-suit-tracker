@@ -1105,6 +1105,13 @@
       "case_no": "",
       "plaintiff": "",
       "defendant": ""
+    },
+    "https://news.google.com/home?hl=en-SG&gl=SG&ceid=SG%3Aen": {
+      "created_at": "2025-12-23T14:20:39.681095+00:00",
+      "issue_url": "https://github.com/leemgs/ai-law-suit-tracker/issues/159",
+      "case_no": "",
+      "plaintiff": "",
+      "defendant": ""
     }
   }
 }
