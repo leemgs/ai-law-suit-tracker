@@ -1196,6 +1196,34 @@
       "case_no": "",
       "plaintiff": "",
       "defendant": ""
+    },
+    "https://www.google.com/share.google?q=4gYQAjaBUcJo5Vc9q": {
+      "created_at": "2025-12-24T18:29:39.532397+00:00",
+      "issue_url": "https://github.com/leemgs/ai-law-suit-tracker/issues/172",
+      "case_no": "39 등록 2025",
+      "plaintiff": "",
+      "defendant": ""
+    },
+    "https://www.google.com/share.google?q=sg54tMhNLra6IVExL": {
+      "created_at": "2025-12-24T18:29:43.006930+00:00",
+      "issue_url": "https://github.com/leemgs/ai-law-suit-tracker/issues/173",
+      "case_no": "15 등록 2025",
+      "plaintiff": "",
+      "defendant": ""
+    },
+    "https://www.google.com/share.google?q=KRzmkxtjbnuIwSVtP": {
+      "created_at": "2025-12-24T18:29:45.777042+00:00",
+      "issue_url": "https://github.com/leemgs/ai-law-suit-tracker/issues/174",
+      "case_no": "06 등록 2025",
+      "plaintiff": "",
+      "defendant": ""
+    },
+    "https://play.google.com/store/apps/details?id=ru.ozon.app.android&hl=en_ZA&gl=BY": {
+      "created_at": "2025-12-24T18:29:48.088114+00:00",
+      "issue_url": "https://github.com/leemgs/ai-law-suit-tracker/issues/175",
+      "case_no": "",
+      "plaintiff": "",
+      "defendant": ""
     }
   }
 }
