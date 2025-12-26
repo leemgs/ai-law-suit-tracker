@@ -1301,6 +1301,13 @@
       "case_no": "",
       "plaintiff": "",
       "defendant": ""
+    },
+    "https://news.google.com/__i/rss/rd/articles/CBMia2h0dHBzOi8vc2Vla2luZ2FscGhhLmNvbS9hcnRpY2xlLzQ0MzA3NDItY29pbmJhc2UtNzAtcGVyY2VudC11cHNpZGUtYW5kLXdoeS1iaXRjb2lucy1mYWxsLWlzLWNvaW5iYXNlcy1nYWlu0gEA?oc=5": {
+      "created_at": "2025-12-26T10:21:38.297032+00:00",
+      "issue_url": "https://github.com/leemgs/ai-law-suit-tracker/issues/187",
+      "case_no": "",
+      "plaintiff": "",
+      "defendant": ""
     }
   }
 }
