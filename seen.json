@@ -1280,6 +1280,27 @@
       "case_no": "",
       "plaintiff": "",
       "defendant": ""
+    },
+    "https://www.google.com/finance/quote/RUT:INDEXRUSSELL": {
+      "created_at": "2025-12-26T06:32:12.587568+00:00",
+      "issue_url": "https://github.com/leemgs/ai-law-suit-tracker/issues/184",
+      "case_no": "",
+      "plaintiff": "",
+      "defendant": ""
+    },
+    "https://www.google.com/finance/quote/AMZN:NASDAQ": {
+      "created_at": "2025-12-26T06:32:14.571218+00:00",
+      "issue_url": "https://github.com/leemgs/ai-law-suit-tracker/issues/185",
+      "case_no": "",
+      "plaintiff": "",
+      "defendant": ""
+    },
+    "https://www.google.com/finance/quote/PEP:NASDAQ": {
+      "created_at": "2025-12-26T06:32:16.673856+00:00",
+      "issue_url": "https://github.com/leemgs/ai-law-suit-tracker/issues/186",
+      "case_no": "",
+      "plaintiff": "",
+      "defendant": ""
     }
   }
 }
