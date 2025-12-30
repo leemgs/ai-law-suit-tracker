@@ -1399,6 +1399,13 @@
       "case_no": "",
       "plaintiff": "",
       "defendant": ""
+    },
+    "https://www.google.com/finance/quote/NUAI:NASDAQ": {
+      "created_at": "2025-12-30T06:33:20.524450+00:00",
+      "issue_url": "https://github.com/leemgs/ai-law-suit-tracker/issues/201",
+      "case_no": "",
+      "plaintiff": "",
+      "defendant": ""
     }
   }
 }
