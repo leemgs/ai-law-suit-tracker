@@ -1462,6 +1462,13 @@
       "case_no": "",
       "plaintiff": "",
       "defendant": ""
+    },
+    "https://www.google.com/finance/quote/RMS:EPA?hl=ja": {
+      "created_at": "2025-12-31T22:20:10.069223+00:00",
+      "issue_url": "https://github.com/leemgs/ai-law-suit-tracker/issues/210",
+      "case_no": "",
+      "plaintiff": "",
+      "defendant": ""
     }
   }
 }
