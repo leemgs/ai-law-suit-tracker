@@ -1742,6 +1742,20 @@
       "case_no": "",
       "plaintiff": "",
       "defendant": ""
+    },
+    "https://notifications.google.com/g/p/AM0OvepODaL5lgE71GmE54DSipeoORRgjf2lb-pLNrZUfdw0WFV5rI2b_ZyblZ0B5E-AmPjPKv1gnHRD1nB5N2WCw2-fhQgAs-scbYGNDTjQcjiGJJjfDnjljrds8IkemnE_ocN3uib84lnvcBJiYZcS5HMzLpLjuixO-El9Vq3QxEKnHfB8h72jpHCAGJFStn-K6P-Xn4gEarVqpo4ZzssTgy7gNy9VG06zxiwpNy-jJwm7ztTMVx1R4H6ofx1mUa_ldYEk3reZVlfU9w": {
+      "created_at": "2026-01-08T06:34:24.038301+00:00",
+      "issue_url": "https://github.com/leemgs/ai-law-suit-tracker/issues/250",
+      "case_no": "",
+      "plaintiff": "",
+      "defendant": ""
+    },
+    "https://news.google.com/home?hl=en-NZ&gl=NZ&ceid=NZ%3Aen": {
+      "created_at": "2026-01-08T06:34:26.185824+00:00",
+      "issue_url": "https://github.com/leemgs/ai-law-suit-tracker/issues/251",
+      "case_no": "",
+      "plaintiff": "",
+      "defendant": ""
     }
   }
 }
