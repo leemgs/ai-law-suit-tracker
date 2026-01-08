@@ -1728,6 +1728,20 @@
       "case_no": "",
       "plaintiff": "",
       "defendant": ""
+    },
+    "https://www.google.com/sorry/index?continue=https://www.youtube.com/%40NBC10Philadelphia/videos&q=EgRC-UQBGJDgsMoGIjAZa2X3vfgunEVv-Eg9dK7Tqi1pHMnhScorWl-eNgDGhB5fYMNH_xgIi8iLj8xWmO4yBT4-Y3JSWgFD": {
+      "created_at": "2026-01-08T01:43:56.958725+00:00",
+      "issue_url": "https://github.com/leemgs/ai-law-suit-tracker/issues/248",
+      "case_no": "",
+      "plaintiff": "",
+      "defendant": ""
+    },
+    "https://news.google.com/home?hl=en-NG&gl=NG&ceid=NG%3Aen": {
+      "created_at": "2026-01-08T01:43:59.145153+00:00",
+      "issue_url": "https://github.com/leemgs/ai-law-suit-tracker/issues/249",
+      "case_no": "",
+      "plaintiff": "",
+      "defendant": ""
     }
   }
 }
