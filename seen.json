@@ -1840,6 +1840,13 @@
       "case_no": "",
       "plaintiff": "",
       "defendant": ""
+    },
+    "https://www.google.com/finance/quote/TSLA34:BVMF": {
+      "created_at": "2026-01-09T22:20:44.120248+00:00",
+      "issue_url": "https://github.com/leemgs/ai-law-suit-tracker/issues/264",
+      "case_no": "",
+      "plaintiff": "",
+      "defendant": ""
     }
   }
 }
