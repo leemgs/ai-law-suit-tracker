@@ -1903,6 +1903,13 @@
       "case_no": "",
       "plaintiff": "",
       "defendant": ""
+    },
+    "https://www.google.com/finance/quote/1TSLA:BIT": {
+      "created_at": "2026-01-11T10:21:01.614851+00:00",
+      "issue_url": "https://github.com/leemgs/ai-law-suit-tracker/issues/273",
+      "case_no": "",
+      "plaintiff": "",
+      "defendant": ""
     }
   }
 }
